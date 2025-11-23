@@ -1,17 +1,16 @@
 
-<marquee><h1> I'm Worldsavior | Arya </h1></marquee>
+<marquee><h1> I'm Worldsavior | Aryma </h1></marquee>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 
-Hello 👋 my name is Arya Maulana or you can call me "worldsavior" and I'm from Airlangga University Surabaya, Indonesia, Taking Informatics Technology as my Major
-I have a huge interest with Software Engineering, whether in Website, WebApps, Mobile, Desktop Apps, Or Even Server . I also have an interest on anything related to Open Source Software such as Linux and stuff. Also I'm working as a founder at [Easy Virtualization Of Products Technology](https://evop.tech). <br/>
+Hello 👋 I'm Aryma or you can call me "worldsavior" and I'm from Somewhere in this world, Taking Informatics Technology as my Major
+I have a huge interest with Software Engineering, whether in Website, WebApps, Mobile, Desktop Apps, Or Even Server . I also have an interest on anything related to Open Source Software such as Linux and stuff. <br/>
 Nice to meet you!
 - 🔭 I’m currently working on some project
-- 🌱 I’m currently Starting startup named evop.tech
 - 💻Hacking and Development enthusiasts
 - 📫 How to reach me: just mail this :
 
-   "edensleuth@gmail.com" | "kajuki27@gmail.com" | "contact@evop.tech"
-- 😄 Pronouns: The self | Arya | Him
+   "edensleuth@gmail.com" | "kajuki27@gmail.com" | "arya@evop.tech"
+- 😄 Pronouns: The self | Aryma | Him
 - ⚡ Fun fact: I love philosophy and code
 
 ## 🛠 My main language
