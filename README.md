@@ -55,17 +55,17 @@ Nice to meet you!
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arya-f4)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aryma-f4)](https://git.io/streak-stats)<br/>
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-f4&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryma-f4&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![Arya-f4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arya-f4&show_icons=true)
+![Arya-f4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryma-f4&show_icons=true)
 
 ---
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Arya-f4&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aryma-f4&no-frame=true)
 
 ---
 # Viewer : 
-![Github Viewer](https://count.getloli.com/@:Arya-f4?theme=nixietube-1)
+![Github Viewer](https://count.getloli.com/@:Aryma-f4?theme=nixietube-1)
