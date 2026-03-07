@@ -59,13 +59,13 @@ Total : 3
 
 - GHSA : https://github.com/ellite/Wallos/security/advisories/GHSA-mr2c-prqv-hqm8
   
-   CVE : CVE-2026-30840
+   CVE : [CVE-2026-30840](https://cve.mitre.org/cgi-bin/cvename.cgi?name=)
 - GHSA : https://github.com/FlintSH/Flare/security/advisories/GHSA-gwqr-xf5c-5569
 
-   CVE : CVE-2026-30231
+   CVE : [CVE-2026-30231](https://cve.mitre.org/cgi-bin/cvename.cgi?name=)
 - GHSA : https://github.com/FlintSH/Flare/security/advisories/GHSA-3x7v-x3r6-mjh7
 
-   CVE : CVE-2026-30230
+   CVE : [CVE-2026-30230](https://cve.mitre.org/cgi-bin/cvename.cgi?name=)
 
 # 📊 GitHub Stats:
 
