@@ -55,7 +55,7 @@ Nice to meet you!
 
 
 # CVE Discovered : 
-Total : 3
+Total : 4
 
 - GHSA : https://github.com/ellite/Wallos/security/advisories/GHSA-mr2c-prqv-hqm8
   
