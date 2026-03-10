@@ -68,7 +68,7 @@ Total : 4
    CVE : [CVE-2026-30230](https://cve.mitre.org/cgi-bin/cvename.cgi?name=)
 - GHSA : https://github.com/OneUptime/oneuptime/security/advisories/GHSA-cw6x-mw64-q6pv
 
-   CVE : CVE-2026-30959
+   CVE : [CVE-2026-30959](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-30959)
 
 # 📊 GitHub Stats:
 
