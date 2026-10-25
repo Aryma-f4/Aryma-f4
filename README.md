@@ -1,1 +1,1 @@
-RIP Aryma
+aryma.rip
