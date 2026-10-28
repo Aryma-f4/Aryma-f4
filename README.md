@@ -1,1 +1,1 @@
-aryma.rip
+[aryma.rip](https://aryma.rip)
